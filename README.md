@@ -26,10 +26,9 @@ the emotion_recognition.py file.
 The current model has an accuracy of ~94.8% on the test dataset.
 
 ##### Hardware Requirements
-(1) Webcam, (2) NVIDIA graphics card with ~8GB RAM
+(1) Webcam, (2) Graphics card supporting Tensorflow
 
-###### Note: Program has only been tested under Ubuntu 14.04
-
+Note: Program has only been tested under Ubuntu 14.04 with an NVIDIA GTX 1070.
 
 ### References:
 (1) https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py

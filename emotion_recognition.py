@@ -1,3 +1,6 @@
+# A large portion of this code comes from the tf-learn example page:
+# https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py
+
 import tflearn
 import numpy as np
 from numpy import genfromtxt
